@@ -1,3 +1,4 @@
+//operaciones y precedencias calculos matematicos
 //Suma
 console.log(32 + 5);
 
